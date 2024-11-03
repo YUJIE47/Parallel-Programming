@@ -8,14 +8,10 @@
 - Performance Measurement: Time (Speedup)
     - Pthread
     <img src="image/pthread.png" alt="Image description" width="500" height="300">
+
     - Hybrid
     <img src="image/hybrid.png" alt="Image description" width="500" height="300">
 
-- Performance Measurement: Time (Speedup)
-    - Pthread
-      <img src="image/pthread.png" alt="Pthread Image" width="500" height="300">
-      
-    - Hybrid
-      <img src="image/hybrid.png" alt="Hybrid Image" width="500" height="300">
+
 
 
