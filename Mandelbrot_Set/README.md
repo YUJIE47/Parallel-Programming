@@ -1,7 +1,9 @@
 ## Description
 
 ## Environment
-
+- CPU: Intel(R) Core(TM) i7-14700K, 20 cores per socket, 28 logical CPUs
+- OS: Ubuntu 20.04
+- Slurm: 20.11.10
 ## Run Code
 After run `make` to compile
 - Pthread
