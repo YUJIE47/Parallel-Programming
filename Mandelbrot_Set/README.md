@@ -1,7 +1,13 @@
+## Description
+
 ## Environment
 
 ## Run Code
-
+After run `make` to compile
+- Pthread
+    `srun`
+- Hybrid
+    `srun`
 ## Plots: Scalability & Load Balancing & Profile
 - Test Case: slow02 `54564 -0.34499 -0.34501 -0.61249 -0.61251 800 800`
 
