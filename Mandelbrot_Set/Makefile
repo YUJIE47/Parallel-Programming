@@ -7,7 +7,7 @@ pra_hybrid: CC = mpicc
 pra_hybrid: CXX = mpicxx
 pra_hybrid: CFLAGS += -fopenmp
 CXXFLAGS = $(CFLAGS)
-TARGETS = hw2seq pra_pthread pra_hybrid
+TARGETS = seq pra_pthread pra_hybrid
 
 .PHONY: all
 all: $(TARGETS)
