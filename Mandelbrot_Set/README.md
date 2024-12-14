@@ -55,10 +55,10 @@ After run `make` to compile
 
 - Performance Measurement: Time (Speedup)
     - Pthread
-    <img src="image/pthread.png" alt="Image description" width="500" height="300">
+    <img src="image/pthread_baseline.png" alt="Image description" width="500" height="300">
 
     - Hybrid
-    <img src="image/hybrid.png" alt="Image description" width="500" height="300">
+    <img src="image/hybrid_baseline.png" alt="Image description" width="500" height="300">
 
 - Performance Measurement: Work Balance
     - Pthread
